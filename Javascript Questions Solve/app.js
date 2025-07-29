@@ -52,16 +52,17 @@
 //     alert("number is odd")
 // }
 // Q10 
-let marks = prompt("enter Your Marks")
-marks = Number(marks);
-if (marks >= 80){
-    alert("A Garde")
-}
-else if(marks >= 70){
-    alert("b Garde")   
-}else{
-    alert("fail")
-}
+// let marks = prompt("enter Your Marks")
+// marks = Number(marks);
+// if (marks >= 80){
+//     alert("A Garde")
+// }
+// else if(marks >= 70){
+//     alert("b Garde")   
+// }else{
+//     alert("fail")
+// }
+
 
 
 
